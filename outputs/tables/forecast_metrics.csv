@@ -1,0 +1,9 @@
+region,model,MAE,RMSE
+Gujarat-West India,Linear Regression,0.199,0.262
+Gujarat-West India,"ARIMA(1,1,1)+drift",0.208,0.269
+Northern Europe,Linear Regression,0.181,0.245
+Northern Europe,"ARIMA(1,1,1)+drift",0.184,0.247
+Pacific Coast US,Linear Regression,0.239,0.31
+Pacific Coast US,"ARIMA(1,1,1)+drift",0.253,0.326
+Sahel Africa,Linear Regression,0.371,0.41
+Sahel Africa,"ARIMA(1,1,1)+drift",0.361,0.4

@@ -1,0 +1,41 @@
+region,year,linear_forecast_c,arima_forecast_c,arima_lower_95,arima_upper_95
+Gujarat-West India,2025,28.27,28.32,27.72,28.91
+Gujarat-West India,2026,28.3,28.29,27.68,28.9
+Gujarat-West India,2027,28.32,28.33,27.71,28.94
+Gujarat-West India,2028,28.35,28.35,27.74,28.96
+Gujarat-West India,2029,28.37,28.38,27.76,28.99
+Gujarat-West India,2030,28.4,28.4,27.79,29.01
+Gujarat-West India,2031,28.42,28.43,27.81,29.04
+Gujarat-West India,2032,28.45,28.45,27.84,29.06
+Gujarat-West India,2033,28.47,28.48,27.86,29.09
+Gujarat-West India,2034,28.5,28.5,27.89,29.11
+Northern Europe,2025,9.74,9.71,9.15,10.28
+Northern Europe,2026,9.77,9.77,9.2,10.34
+Northern Europe,2027,9.81,9.8,9.24,10.37
+Northern Europe,2028,9.84,9.84,9.27,10.4
+Northern Europe,2029,9.87,9.87,9.31,10.44
+Northern Europe,2030,9.91,9.91,9.34,10.47
+Northern Europe,2031,9.94,9.94,9.38,10.51
+Northern Europe,2032,9.98,9.98,9.41,10.54
+Northern Europe,2033,10.01,10.01,9.44,10.58
+Northern Europe,2034,10.05,10.05,9.48,10.61
+Pacific Coast US,2025,15.14,15.1,14.4,15.79
+Pacific Coast US,2026,15.16,15.17,14.46,15.88
+Pacific Coast US,2027,15.18,15.18,14.46,15.89
+Pacific Coast US,2028,15.2,15.2,14.49,15.91
+Pacific Coast US,2029,15.22,15.22,14.5,15.93
+Pacific Coast US,2030,15.24,15.24,14.52,15.95
+Pacific Coast US,2031,15.26,15.26,14.54,15.97
+Pacific Coast US,2032,15.28,15.28,14.56,15.99
+Pacific Coast US,2033,15.3,15.3,14.58,16.01
+Pacific Coast US,2034,15.32,15.32,14.6,16.03
+Sahel Africa,2025,30.65,30.64,30.01,31.26
+Sahel Africa,2026,30.69,30.69,30.05,31.32
+Sahel Africa,2027,30.72,30.72,30.09,31.36
+Sahel Africa,2028,30.76,30.76,30.12,31.39
+Sahel Africa,2029,30.79,30.79,30.15,31.42
+Sahel Africa,2030,30.82,30.82,30.19,31.46
+Sahel Africa,2031,30.86,30.86,30.22,31.49
+Sahel Africa,2032,30.89,30.89,30.26,31.53
+Sahel Africa,2033,30.93,30.92,30.29,31.56
+Sahel Africa,2034,30.96,30.96,30.32,31.59

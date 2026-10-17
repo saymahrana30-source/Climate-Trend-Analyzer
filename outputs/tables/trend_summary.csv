@@ -1,0 +1,5 @@
+region,slope_c_per_decade,r_squared,p_value,kendall_tau,trend
+Northern Europe,0.346,0.756,2.68e-16,0.708,Warming
+Sahel Africa,0.338,0.705,2.6e-14,0.678,Warming
+Gujarat-West India,0.252,0.58,1.33e-10,0.563,Warming
+Pacific Coast US,0.196,0.382,1.76e-06,0.442,Warming
